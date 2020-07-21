@@ -1,0 +1,12 @@
+{
+    "slug":"others",
+    "description":"Talleres, diplomados en las que he participado",
+    "title":"Otros logros acádemicos",
+    "items":[
+        {
+            "name":"HACKATON",
+            "degree":"Curso de solución e innovación de Apps",
+            "score":"890"
+        }
+    ]
+}

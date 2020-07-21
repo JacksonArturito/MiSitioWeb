@@ -1,0 +1,24 @@
+{
+    "slug":"online",
+    "title":"Cursos en línea",
+    "description":"Cursos finalizados en plataforma de educación en internet",
+    "items":[
+        {
+            "name":"Curso de Materialize",
+            "url":"https://codigofacilito.com/courses/materialize"
+        },
+        {
+            "name":"Curso profesional de PHP",
+            "url":"https://codigofacilito.com/courses/php-profesional"
+        },
+        {
+            "name":"Curso para desarrollar servicios web REST con Nodejs",
+            "url":"https://codigofacilito.com/courses/nodejs-servicios-web"
+        },
+        {
+            "name":"Curso de Fundamentos de React",
+            "url":"https://codigofacilito.com/courses/react-intro-gratis"
+        }
+        
+    ]
+}
